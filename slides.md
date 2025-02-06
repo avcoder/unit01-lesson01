@@ -456,6 +456,18 @@ Dessert 3: Fruit Tart - Fresh fruit medley on a delicate pastry crust with a lig
 transition: slide-left
 ---
 
+# 5 minute break
+<br/>
+
+🍦 Cool Tips, Trends and Resources:
+- 🙏 [caniuse.com](https://caniuse.com)
+- 🎒 [Khan Academy](https://www.khanacademy.org/search?page_search_query=html) 
+- 🥷🏻 [FrontendMasters.com](https://frontendmasters.com/)
+
+---
+transition: slide-left
+---
+
 # HTML Creation
 (10 min)
 
