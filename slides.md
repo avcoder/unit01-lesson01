@@ -371,7 +371,7 @@ transition: slide-left
 
 ```html
 <!DOCTYPE html>
-<html lang="en"> 
+<html lang="en"> <!-- Inspect https://horecamenu.pl/ -->
 <head>
     <meta charset="UTF-8"> <!-- Try "ISO-8859-1" -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Try removing content with  circuitstream.com -->
