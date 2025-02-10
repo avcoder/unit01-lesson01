@@ -23,7 +23,7 @@ mdc: true
 Circuit Stream
 - [ ] Setup a development environment (install VS Code)
 - [ ] Recognize HTML and how it works
-- [ ] Use Markdown to create a simple document
+- [ ] Use HTML to create a simple document
 
 
 <div class="abs-br m-6 text-xl">
