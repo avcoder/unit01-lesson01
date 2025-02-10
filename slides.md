@@ -385,12 +385,15 @@ transition: slide-left
 
 <!--
 140:00 - START
+- HTML = element or individual component
+- Where is the one and only p element?  Purpose of p element?
+- elements have opening and closing tags (usually).  between = content
+- Body tag contains all visible content on page.  Does the body tag have content?
+- What happens if I place the ending tag on a new line?
+- What happens if I forget to put ending tag?
+- Comment tag has 2 purposes.  Comment out a tag.
+- Indent all nested elements
 
-- DOCTYPE - specifies which HTML version this document was written in.  Without it, browser might default to quirks mode, causing issues in styling or tags not rendering correctly
-- html - encapsulates everything, tells browser to interpret as html. lang attribute specifies language
-- UTF-8 - what character encoding is used so that browser knows how to display characters
-- viewport - to control layout and zooming of page on mobile devices.  Without it, mobile views zoom out
-- title tag - try changing it what happens to browser tab?
 150:00 - END
 -->
 
