@@ -149,10 +149,11 @@ class: text-left
 
 <!--
 15:00 - START
-0. 20 questions: toaster doesn't work. Why?
-1. Reveal work vids; explain industry, what devs do (5 min)
-2. use chatgpt to see SDLC (4 min)
-3. Where to find more info (1 min)
+
+1. questions: toaster doesn't work. Why?
+2. Reveal work vids; explain industry, what devs do (5 min)
+3. use chatgpt to see SDLC (4 min)
+4. Where to find more info (1 min)
 
 25:00 - END
 -->
